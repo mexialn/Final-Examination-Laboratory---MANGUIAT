@@ -1,0 +1,49 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #343a40;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+#result {
+    margin-top: 20px;
+}
+
+.university-info {
+    margin-bottom: 20px;
+}
+
+.university-info .card {
+    margin-bottom: 20px;
+}
+
+.university-info .card-header {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.university-info .badge {
+    background-color: #6c757d;
+    color: #fff;
+}
+
+hr {
+    border-top: 1px solid #e9ecef;
+}
